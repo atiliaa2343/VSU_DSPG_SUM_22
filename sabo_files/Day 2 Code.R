@@ -7,7 +7,7 @@ library(randomizr)
 library(lubridate)
 
 #Setting Working directory or file directory. This allows you to call only the data set name in subsequent code, and would allow other users to only change their file path/directory
-setwd("U://Consulting//Wright Center - CCTR//S&R Hub//VSU Data Science Bootcamp")
+setwd("D:/code/git/sabo_demo/sabo_files")
 getwd()
 list.files() #list.files() function allows you to see what files are in your directory. 
 
